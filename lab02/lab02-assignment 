@@ -1,4 +1,4 @@
 1) Write a function to determine if a given number is even or odd.
-2) Write a function that generates the Fibonacci numbers and plot the result (i on the x-axis and Fibonacci on the y-axis).
-3) Write a function that prints "heads" if a coin flip returns 1 and returns "tails" if it returns 0. 
-4) Write a function that computes the Bernoulli likelihood and plot it as a function of p. 
+2) Write a function that generates the first 100 Fibonacci numbers and plot the result (i on the x-axis and Fibonacci on the y-axis).
+3) Write a function that prints "heads" if a coin flip returns 1 and prints "tails" if it returns 0. 
+4) Write a function that computes the Bernoulli likelihood of 10 coin flips and plot it as a function of p (or theta). 
